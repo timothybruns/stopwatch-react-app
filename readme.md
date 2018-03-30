@@ -5,4 +5,4 @@
 
 ### Running the app
 * Open a command line window and run the backend server by typing ```PORT=3001 npm start``` to boot up the server from the root directory.
-* Open a second command line window, change directory (cd) into the client/ folder and type ```npm start``` to boot up the react app.
+* Open a second command line window, change directory (cd) into the ```client``` folder and type ```npm start``` to boot up the react app.
